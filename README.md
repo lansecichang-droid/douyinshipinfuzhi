@@ -1,4 +1,4 @@
-# 🎬 抖音内容创作助手 Skill
+# 🎬 抖音内容创作助手/全平台视频复刻 Skill
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue.svg)](https://openclaw.ai)
